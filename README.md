@@ -197,6 +197,8 @@ cat templates/readiness-assessment.md
 │   ├── vendor-scorecard.md           # Phase 2 vendor comparison matrix
 │   ├── integration-plan.md           # Phase 3 technical planning doc
 │   └── roi-tracker.md               # Phase 5 ROI tracking template
+├── docs/
+│   └── common-pitfalls.md            # 15 common AI implementation mistakes
 ├── examples/
 │   ├── chatbot-checklist.md          # Filled example for a chatbot project
 │   └── recommendation-checklist.md   # Filled example for a rec engine
